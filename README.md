@@ -1,37 +1,52 @@
+# 👋 Hi, I'm Hassaan!
 
+### Software Engineer | Computer Science Student
 
-👋 Hi, I'm Hassaan!
-Computer Science Student | Software Engineer
+I enjoy building scalable applications, backend systems and AI-powered solutions.
 
-Interested in building scalable applications, backend systems and AI-powered solutions.
+---
 
-💼 Currently
-- Software Engineer at KariGhar.
-- Working with Next.js, TypeScript and FastAPI.
-- Exploring backend architecture and system design.
+### 💻 About Me
 
-🛠️ Languages
-Python
-JavaScript
-TypeScript
-C++
+- 💼 Software Engineer working on real-world software projects.
+- 🚀 Currently contributing to **KariGhar — Home Services Marketplace**.
+- 🌱 Exploring backend engineering, system design and AI.
+- 💡 Passionate about learning new technologies and solving problems.
 
-⚙️ Frameworks & Technologies
-React
-Next.js
-FastAPI
-Tailwind CSS
-PostgreSQL
-Docker
-Git
-Linux
+---
 
+### 💻 Languages
 
-🚀 Featured Projects
-- KariGhar — Home Services Marketplace
-- Your AI/RAG chatbot project
-- Your other personal development projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-🌐 Connect with me
+---
 
-GitHub · LinkedIn
+### ⚙️ Frameworks & Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+- **KariGhar** — Home Services Marketplace
+- **AI/RAG Chatbot** — Retrieval-Augmented Generation project
+- **Other Projects** — Explore my repositories!
+
+---
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhassaanqureshi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
