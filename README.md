@@ -1,12 +1,12 @@
 
 
 👋 Hi, I'm Hassaan!
-Computer Science Student | Software Engineer Intern
+Computer Science Student | Software Engineer
 
 Interested in building scalable applications, backend systems and AI-powered solutions.
 
 💼 Currently
-- Software Engineering Intern at KariGhar.
+- Software Engineer at KariGhar.
 - Working with Next.js, TypeScript and FastAPI.
 - Exploring backend architecture and system design.
 
