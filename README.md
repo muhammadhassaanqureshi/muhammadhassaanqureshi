@@ -1,11 +1,5 @@
 
-Repository name	muhammadhassaanqureshi
-Visibility	Public
-Add README	Enabled
 
-The name must exactly match your GitHub username.
-3. Here's the profile I'd recommend for you
-Based on your current software engineering work, I'd organize it like this:
 👋 Hi, I'm Hassaan!
 Computer Science Student | Software Engineer Intern
 
